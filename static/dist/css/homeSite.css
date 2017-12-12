@@ -1,0 +1,52 @@
+ *{
+            margin: 0;
+        }
+.header{
+    width: 100%;
+    height: 70px;
+    background-color: #5bc0de;
+}
+
+
+.header .nickname{
+    color: #000;
+    font-family: 楷体;
+    font-size: 30px;
+    font-weight: normal;
+    margin-left: 120px;
+    line-height: 70px;
+}
+
+.article_list{
+    margin-top: 30px;
+}
+
+.info{
+    color: darkblue;
+    font-size: 10px;
+}
+
+.article_title{
+    font-family: 楷体;
+    font-size: 30px;
+}
+
+.title_head{
+    font-size: 20px;
+    color:aqua;
+    margin-top: 10px;
+}
+
+.summary_a{
+    font-size: 15px;
+    color:black;
+}
+
+.geren{
+    font-size: 15px;
+    color: #46b8da;
+}
+
+.header .action a{
+    padding: 5px;
+}
